@@ -43,8 +43,7 @@ A Full Stack Developer
           alt="Git" /> <br>Git</td>
 <!--       <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=svg" width="48" height="48"
           alt="SVG" /> <br>SVG</td> -->
-      <td align="center" width="100" height="106"> <img src="https://www.salesforce.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg" height="40"
-          alt="Salesforce" /> <br>Salesforce</td>
+      
     </tr>
   </table>
 </div>
