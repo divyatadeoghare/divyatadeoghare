@@ -9,7 +9,7 @@
 - 🎓 Final Year MCA Student (Batch 2026)
 - 🌱 Learning: Advanced JavaScript, Reactjs, Tailwind CSS, Material UI,
 - 💬 Ask me about **MERN Stack, APIs, MongoDB, Node.js, React.js**
-- 📫 Reach me: **divyatadeoghare@gmail.com**
+- 📫 Reach me: **divyatadeoghare10@gmail.com**
 - 💼 Portfolio: [divyata-deoghare.github.io/Portfolio](http://127.0.0.1:5500/Portfolio/index.html)
 
 
