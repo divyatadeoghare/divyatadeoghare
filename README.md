@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyata Deoghare</h1>
-<h3 align="center">Final Year MCA Student | Full-Stack Developer | MERN Stack | C++ with DSA</h3>
+<h3 align="center">Final Year MCA Student | Full-Stack Developer </h3>
 
 
 ---
