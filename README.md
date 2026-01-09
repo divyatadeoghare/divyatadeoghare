@@ -10,7 +10,7 @@
 - 🌱 Learning: Advanced JavaScript, Reactjs, Tailwind CSS, Material UI,
 - 💬 Ask me about **MERN Stack, APIs, MongoDB, Node.js, React.js**
 - 📫 Reach me: **divyatadeoghare10@gmail.com**
-- 💼 Portfolio: [divyata-deoghare/Portfolio](divyatadeoghare.github.io/Portfolio/)
+- 💼 Portfolio: [divyata-deoghare/Portfolio](https://divyatadeoghare.github.io/Portfolio/)
 
 
 ---
